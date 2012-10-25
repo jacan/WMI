@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="JCK.WMI">
+</Property><Property Name="Solution File" Value="D:\Work\Development\WMI\JCK.WMI\JCK.WMI.sln">
+</Property><Property Name="User Options File" Value="D:\Work\Development\WMI\JCK.WMI\JCK.WMI.suo">
+</Property><Property Name="Date" Value="22. august 2011">
+</Property><Property Name="Time" Value="20:33">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="JCK.WMI.sln" Description="File successfully backed up as D:\Work\Development\WMI\JCK.WMI\JCK.WMI.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="JCK.WMI.suo" Description="File successfully backed up as D:\Work\Development\WMI\JCK.WMI\JCK.WMI.suo.old">
+</Event><Event ErrorLevel="0" Project="JCK.WMI" Source="JCK.WMI.vcproj" Description="Converting project file 'D:\Work\Development\WMI\JCK.WMI\JCK.WMI.vcproj'.">
+</Event><Event ErrorLevel="1" Project="JCK.WMI" Source="JCK.WMI.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="JCK.WMI" Source="JCK.WMI.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="JCK.WMI" Source="JCK.WMI.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="JCK.WMI" Source="JCK.WMI.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="JCK.WMI" Source="JCK.WMI.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="JCK.WMI" Source="JCK.WMI.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="JCK.WMI" Source="JCK.WMI.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="JCK.WMI" Source="JCK.WMI.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="JCK.WMI" Source="JCK.WMI.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="JCK.WMI" Source="JCK.WMI.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="JCK.WMI" Source="JCK.WMI.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="JCK.WMI" Source="JCK.WMI.vcproj" Description="Done converting to new project file 'D:\Work\Development\WMI\JCK.WMI\JCK.WMI.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="JCK.WMI" Source="JCK.WMI.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="JCK.WMI.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="JCK.WMI.sln" Description="Converted">
+</Event></UpgradeLog>
